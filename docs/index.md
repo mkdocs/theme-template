@@ -1,0 +1,2 @@
+# {{cookiecutter.theme_name}}
+

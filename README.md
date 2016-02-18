@@ -1,0 +1,2 @@
+# MkDocs Theme Cookiecutter
+

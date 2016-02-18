@@ -1,0 +1,4 @@
+site_name: {{cookiecutter.theme_name}} - MkDocs Theme
+theme_dir: {{cookiecutter.repo_name}}
+
+repo_url: {{cookiecutter.repo_url}}
