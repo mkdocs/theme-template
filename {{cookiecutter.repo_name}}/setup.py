@@ -15,7 +15,7 @@ setup(
     include_package_data=True,
     entry_points={
         'mkdocs.themes': [
-            '{{cookiecutter.theme_name}} = {{cookiecutter.repo_name}}',
+            '{{cookiecutter.repo_name}} = {{cookiecutter.repo_name}}',
         ]
     },
     zip_safe=False
